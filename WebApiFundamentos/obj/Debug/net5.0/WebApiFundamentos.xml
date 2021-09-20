@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiFundamentos</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiFundamentos.Controllers.V2.LibrosController.getAll">
+            <sumary>
+             Obtener Registros de Libros 
+            </sumary>
+            <returns>Returna un listado de Libros</returns>
+            <response code="200">Retorna listado de Libros</response>
+            <response code="204">No hay registros</response>
+        </member>
+    </members>
+</doc>
